@@ -29,7 +29,7 @@ This project demonstrates end-to-end data handling capabilities, from web scrapi
 ![Data Cleaning](Screenshot%202024-08-13%20172702.png)
 
 ### Final Outcome
-![Final Outcome](Screenshot%2024-08-13%172734.png)
+![Final Outcome](Screenshot%202024-08-13%172734.png)
 ![Final Outcome](Screenshot%202024-08-13%20173808.png)
 
 ## How to Use
