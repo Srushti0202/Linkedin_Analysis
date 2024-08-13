@@ -22,18 +22,14 @@ This project demonstrates end-to-end data handling capabilities, from web scrapi
 
 ## Images
 
-### Data Scraping Process
+### Scrapped Data
 ![Data Scraping](Screenshot%202024-08-13%20170349.png)
 
-### Data Cleaning Process
+### Cleaned Data
 ![Data Cleaning](Screenshot%202024-08-13%20172702.png)
 
-### KPI Development
-![KPI Development](Screenshot%202024-08-13%20172702.png)
-
-![Final Outcome]()
-
 ### Final Outcome
+![Final Outcome](Screenshot%2024-08-13%172734.png)
 ![Final Outcome](Screenshot%202024-08-13%20173808.png)
 
 ## How to Use
